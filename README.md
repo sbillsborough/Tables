@@ -1,5 +1,5 @@
 # Tables
-Codecademy Fashion Blog project.
+Codecademy Annual Aguillar Family Wine Festival project.
 
 ## Table of contents
 * [General info](#general-info)
@@ -15,14 +15,14 @@ The Codecademy 'Annual Aguillar Family Wine Festival' project to practice HTML t
 Open in any web browser that supports HTML 5.
 
 ## Features
-List of features ready and TODOs for future development
-* Full table including classes for cells.
-* Links to external fonts.
+List of features ready and TODOs for future development:
+* Full table including classes for divs and cells
+* Links to external fonts
 * Relevant CSS 
 * Scroll bar
 
 To-do list:
-
+* None
 
 ## Status
 Project is: _finished_
